@@ -1,1 +1,0 @@
-# Adobe-Illustrator-2026
