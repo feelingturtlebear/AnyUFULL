@@ -1,0 +1,10 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Тень для объема -->
+  <rect x="0" y="10" width="800" height="140" rx="35" fill="#1b5e20" />
+  <!-- Сама кнопка -->
+  <rect x="0" y="0" width="800" height="140" rx="35" fill="#2e7d32" />
+  <!-- Текст -->
+  <text x="50%" y="48%" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="65" fill="#ffffff" font-weight="900" dominant-baseline="middle" text-anchor="middle" letter-spacing="2">DOWNLOAD NOW</text>
+  <!-- Маленький подтекст -->
+  <text x="50%" y="75%" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#a5d6a7" font-weight="600" dominant-baseline="middle" text-anchor="middle" letter-spacing="1">LATEST SECURE VERSION</text>
+</svg>
